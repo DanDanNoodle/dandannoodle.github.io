@@ -1,11 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "F443QFT36E.com.mastercard.fakewallet”,
-        "paths":[ "*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "F443QFT36E.com.mastercard.fakewallet",
+                "paths": [ "/*" ]
+            }
+	]
+    }
 }
