@@ -1,10 +1,12 @@
 {
-"applinks": {
+  "applinks": {
     "apps": [],
-    "details": [
-        {
-            "appID": "F443QFT36E.com.mastercard.uswallet11",
-            "paths": ["*"]
-        }        ]
-	}
+    "details": {
+      "F443QFT36E.com.mastercard.uswallet11": {
+        "paths": [
+          "*"
+        ]
+      }
+    }
+  }
 }
